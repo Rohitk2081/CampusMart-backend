@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Uploaded files (optional: if you don’t want to commit user uploads)
+uploads/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Firebase admin private key (if you add it later)
+firebaseAdmin.json
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
