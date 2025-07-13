@@ -157,8 +157,6 @@ CampusMart-backend/
    ```
 5. Open a Pull Request.
 
-## License
-This project is licensed under the MIT License.
 
 ## Contact
 **Author**: [Rohit Kumar](https://github.com/Rohitk2081)
